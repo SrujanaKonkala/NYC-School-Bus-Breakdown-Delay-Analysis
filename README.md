@@ -7,7 +7,7 @@ I was hired as a Data Analyst to improve the efficiency and reliability of the N
 ## Objectives
 The analysis addressed three primary operational questions:
 1.  **Common Reasons:** What are the most frequent causes of delays and breakdowns?
-2.** Vendor Performance:**How do delay times vary by bus company and borough?
+2.  **Vendor Performance:** How do delay times vary by bus company and borough?
 3.  **Temporal Trends:** Is there a correlation between the day of the week and incident frequency?
 
 ## Data Dictionary
@@ -40,7 +40,7 @@ I analyzed the data by distinguishing between "Breakdowns" (mechanical) and "Run
 This section highlights the variance in delay times across different bus companies and city boroughs.
 <img width="977" height="692" alt="image" src="https://github.com/user-attachments/assets/0ba69fe0-7fdd-4938-a0e7-1d9122cc9f88" />
 
-#### **Chart 1: Average Delay Time by Bus Company **
+#### **Chart 1: Average Delay Time by Bus Company**
 
 * **Finding:** **Selby Transportation** and **Little Linda Bus Co.** recorded the highest average delays, exceeding **75-85 minutes**.
 
